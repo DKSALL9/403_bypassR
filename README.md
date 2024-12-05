@@ -5,3 +5,9 @@ The provided script is a comprehensive Ruby tool designed to test for bypass tec
 ```
 git clone https://github.com/DKSALL9/403_bypassR.git
 ```
+
+# Usage and Example
+```
+Usage: 403_bypassR <url>
+Example: 403_bypassR "http://example.com/secrets"
+```

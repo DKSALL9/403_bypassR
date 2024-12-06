@@ -70,8 +70,8 @@ end
 
 def main
   if ARGV.length < 1 || ARGV[0] == '-h' || ARGV[0] == '--help'
-    puts "Usage: 403_bypass <url>"
-    puts "Example: 403_bypass \"http://example.com/secrets\""
+    puts "Usage: 403_bypassR <url>"
+    puts "Example: 403_bypassR \"http://example.com/secrets\""
     return
   end
 
